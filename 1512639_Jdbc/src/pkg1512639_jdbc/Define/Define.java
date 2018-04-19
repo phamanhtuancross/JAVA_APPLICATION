@@ -21,7 +21,7 @@ public class Define {
         public static final String NAME     = "TenHS";
         public static final String BIRTHDAY = "NgaySinh";
         public static final String NOTE     = "GhiChu";
-        public static final String AVARTAR  = "ExInfor";
+        public static final String AVARTAR  = "ExtInfor";
     }
     
     public static class  SQLQuery{
